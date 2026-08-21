@@ -15,9 +15,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Ahmed Mohamed — Videographer, Editor & Motion Designer',
+  title: 'Mohamed Gamal — Videographer, Editor & Motion Designer',
   description:
-    'Portfolio of Ahmed Mohamed — a Cairo-based videographer, editor and motion designer crafting cinematic stories that make people stop scrolling.',
+    'Portfolio of Mohamed Gamal — a Cairo-based videographer, editor and motion designer crafting cinematic stories that make people stop scrolling.',
   generator: 'v0.app',
 }
 
